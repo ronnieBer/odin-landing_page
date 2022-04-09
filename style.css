@@ -19,6 +19,7 @@ a {
     padding: 12px 47px;
     background-color: #3882f6;
     border-radius: 10px;
+    transition: background-color .5s;
 }
 
 .cta_btn:hover {
