@@ -75,6 +75,11 @@ a {
     font-size: 18px;
     font-weight: 400;
     text-transform: uppercase;
+    transition: color .3s;
+}
+
+#header .nav_bar-menu ul a:hover {
+    color: rgb(206, 65, 94);
 }
 
 #hero {
