@@ -259,3 +259,16 @@ a {
     font-weight: 400;
     margin-top: 12px;
 }
+
+#footer .footer {
+    display: flex;
+    justify-content: center;
+    min-height: 8vh;
+    background: #1F2937;
+}
+
+#footer .footer p {
+    color: #F9FAF8;
+    font-size: 14px;
+    font-weight: 400;
+}
