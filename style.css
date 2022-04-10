@@ -191,3 +191,29 @@ a {
 #services .service-item:hover h3 {
     color: #3882F6;
 }
+
+#quote .quote {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 50vh;
+    background: #E5E7EB;
+}
+
+#quote .quote p {
+    color: #1f2937;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: 300;
+    width: 914px;
+}
+
+#quote .quote h3 {
+    color: #1F2937;
+    font-size: 24px;
+    font-weight: 700;
+    width: 914px;
+    text-align: right;
+    padding-right: 113px;
+    margin-top: 2px;
+}
