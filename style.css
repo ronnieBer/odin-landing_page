@@ -217,3 +217,45 @@ a {
     padding-right: 113px;
     margin-top: 2px;
 }
+
+#cta .cta {
+    display: flex;
+    justify-content: center;
+    min-height: 42vh;
+}
+
+#cta .cta-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 1100px;
+    height: 180px;
+    background: #3882F6;
+    border-radius: 10px;
+    padding: 47px 129px;
+    gap: 164px;
+}
+
+#cta .cta-content a {
+    height: 46px;
+    text-transform: uppercase;
+    border: 2px solid #F9FAF8;
+}
+
+#cta .cta_text-content {
+    width: 508px;
+}
+
+#cta .cta_text-content h3 {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+#cta .cta_text-content p {
+    color: #E5E7EB;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 12px;
+}
