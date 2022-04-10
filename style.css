@@ -160,7 +160,10 @@ a {
     text-align: center;
 }
 
-#services .service-item img {
+#services .service-img {
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
     width: 224px;
     height: 224px;
     border: 5px solid #3882F6;
@@ -168,8 +171,13 @@ a {
     transition: box-shadow .5s;
 }
 
-#services .service-item:hover img {
+#services .service-img:hover {
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+}
+
+#services .service-img img {
+    width: auto;
+    height: 224px;
 }
 
 #services .service-item h3 {
