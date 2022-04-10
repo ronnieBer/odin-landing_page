@@ -197,7 +197,7 @@ a {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    min-height: 50vh;
+    min-height: 42vh;
     background: #E5E7EB;
 }
 
