@@ -1,5 +1,5 @@
 # PROJECT: LANDING PAGE
-The goal of this project is to create a landing page according to a design specification and template provided by The Odin Project using HTML and CSS.
+The goal of this project is to create a landing page according to a design [specification](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png) and [template](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png) provided by The Odin Project using HTML and CSS.
 
 ## Learning goal
 - Understand the box model.
