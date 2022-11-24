@@ -14,7 +14,7 @@ In this second repository from The Odin Project Foundations Course: Flexbox, I'm
 Instead of following the given example, I decided to create a landing page for a nonexistent creative design company named "The Odin Creative". I maintain the font and the color palette given for the project. I write copies that are suitable for a creative design company and select images that will fit my concept.
 
 
-#### :point_right: Landing Page [Live Demo](https://ronnieber.github.io/odin-landing_page/
+#### :point_right: Landing Page [Live Demo](https://ronnieber.github.io/odin-landing_page/)
 
 
 ### Image Credits
