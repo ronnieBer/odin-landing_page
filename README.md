@@ -3,7 +3,7 @@
 ### A Brief Introduction
 In this second repository from The Odin Project Foundations Course: Flexbox, I'm going to make a landing page according to a design [specification](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png) and [template](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png) provided by The Odin Project using HTML and CSS.
 
-## Learning goal
+### Learning goal
 - Understand the box model.
 - Use flexbox to layout the page.
 
